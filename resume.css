@@ -23,6 +23,11 @@ body {
   box-sizing: border-box;
 }
 
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+
 h1,
 h2,
 h3,
